@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d896979fc8934357b9cd382e6b53f4f, type: 3}
+  m_Name: Slot
+  m_EditorClassIdentifier: 
+  typeElements:
+  - TypeOfElement: 0
+    Id: 0
+    Probability: 1
+    Sprite: {fileID: 21300000, guid: 958df1dce16f2486281d713d88c79629, type: 3}
+    elementValues:
+    - Count: 2
+      Value: 500
+    - Count: 3
+      Value: 2000
+  - TypeOfElement: 0
+    Id: 1
+    Probability: 1
+    Sprite: {fileID: 21300000, guid: 1e594d4e7e4a3452a9f74936e82cb290, type: 3}
+    elementValues:
+    - Count: 2
+      Value: 300
+    - Count: 3
+      Value: 1000
+  - TypeOfElement: 0
+    Id: 2
+    Probability: 1
+    Sprite: {fileID: 21300000, guid: d440512c971cc47f1988d928ec9d0458, type: 3}
+    elementValues:
+    - Count: 2
+      Value: 50
+    - Count: 3
+      Value: 500
+  - TypeOfElement: 0
+    Id: 3
+    Probability: 1
+    Sprite: {fileID: 21300000, guid: 6c02c5f9ca9734457aad88ae93deff99, type: 3}
+    elementValues:
+    - Count: 2
+      Value: 30
+    - Count: 3
+      Value: 250
+  - TypeOfElement: 0
+    Id: 4
+    Probability: 1
+    Sprite: {fileID: 21300000, guid: 184eeffc13e9b4e5184e7920356585c6, type: 3}
+    elementValues:
+    - Count: 2
+      Value: 10
+    - Count: 3
+      Value: 100
+  - TypeOfElement: 0
+    Id: 5
+    Probability: 1
+    Sprite: {fileID: 21300000, guid: 747ef2776516e4a49a2b50548707de82, type: 3}
+    elementValues:
+    - Count: 2
+      Value: 5
+    - Count: 3
+      Value: 50
